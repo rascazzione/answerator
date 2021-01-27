@@ -1,5 +1,5 @@
 # answerator
-An app to help teams to create and search quick information
+A web application to help teams quickly create and search for information.
 
 ## Goal
 Facilitate knowledge sharing while creating a knowledge database for future newcomers of your project/team.
